@@ -1,3 +1,10 @@
 @charset "UTF-8";
 /* CSS Document */
 
+#description{
+	background-color:grey;
+}
+
+#menu{
+	background-color:#0F0	
+}
